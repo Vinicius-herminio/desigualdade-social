@@ -90,7 +90,8 @@ body {
 
 /* QR CODE */
 .qr-section {
-    margin-top: 20px;
+    margin-top: 30px;
+    text-align: center;
 }
 
 .qr-section h3 {
@@ -112,6 +113,7 @@ body {
     border-radius: 18px;
     background: white;
     padding: 12px;
+    box-shadow: 0 8px 25px rgba(0,0,0,0.3);
 }
 
 /* RESPONSIVO - TABLET */
@@ -183,4 +185,4 @@ body {
     .qr-code {
         width: 180px;
     }
-} 
+}
